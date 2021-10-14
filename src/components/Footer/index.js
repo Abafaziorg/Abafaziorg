@@ -24,17 +24,17 @@ const Footer = () => {
           <SocialMediaWrap>
             <SocialLogo to='/'>Olivia Nails</SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
+              <SocialIconLink href='https://m.facebook.com/olivia.segaetsho?ref=bookmarks#' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              <SocialIconLink href='https://www.instagram.com/ntiyiso_olivia/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Youtube'>
+              <SocialIconLink href='https://www.instagram.com/ntiyiso_olivia/' target='_blank' aria-label='Youtube'>
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/briandesignz'
+                href='https://twitter.com/SegaetshoOlivia?t=JSjrOpiTaDakzd21jfD-Ew&s=08'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
